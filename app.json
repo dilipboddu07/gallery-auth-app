@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "gallery-auth-app",
+    "slug": "gallery-auth-app",
+    "version": "1.0.0",
+    "plugins": [
+      [
+        "expo-media-library",
+        {
+          "photosPermission": "Allow app to save photos to your device gallery.",
+          "savePhotosPermission": "Allow app to save photos to your device gallery."
+        }
+      ]
+    ]
+  }
+}
